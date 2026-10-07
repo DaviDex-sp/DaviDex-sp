@@ -1,11 +1,18 @@
 # Profile_DaviDex
 
-Perfil profesional - Miller David Yara | Full Stack Developer & AppSec Specialist
+<div align="center">
+
+<a href="https://profile.hackthebox.com/profile/019d7dfd-d2a3-7132-828a-7609603ff760?utm_medium=copy_url">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00D9FF&background=0B1021&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer;AppSec+Specialist;Cybersecurity+Enthusiast;IoT+Builder;Always+Learning..." alt="Typing SVG" />
+</a>
+
+</div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miller-david-cyber)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviDex-sp)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d7dfd-d2a3-7132-828a-7609603ff760?utm_medium=copy_url)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/miller-david.0316b652)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yaramiller35@gmail.com)
 
@@ -17,9 +24,9 @@ Perfil profesional - Miller David Yara | Full Stack Developer & AppSec Specialis
 
 ## 🎯 Sobre mí
 
-Soy **Full Stack Developer & AppSec Specialist** con enfoque en construir ecosistemas digitales robustos, seguros e interactivos. Mi trabajo abarca plataformas transaccionales en la nube, domótica IoT conectada a Azure y plataformas de fact-checking cívico.
+Soy **Full Stack Developer & AppSec Specialist** con enfoque en construir ecosistemas digitales robustos, seguros e interactivos. Mi trabajo abarca plataformas transaccionales en la nube, domótica inteligente, automatización de procesos y soluciones orientadas al negocio con estándares corporativos y seguridad de nivel empresarial.
 
-Si buscas un profesional capaz de construir desde el diseño de la base de datos hasta la experiencia visual del usuario con estándares corporativos y seguridad de nivel empresarial, explora mis proyectos destacados.
+Si buscas un profesional capaz de construir desde el diseño de la base de datos hasta la experiencia visual del usuario con estándares corporativos y seguridad de nivel empresarial, explora mis proyectos y conexiones.
 
 ---
 
@@ -27,10 +34,10 @@ Si buscas un profesional capaz de construir desde el diseño de la base de datos
 
 | Proyecto | Stack Tecnológico | Impacto / Diferenciador clave |
 | :--- | :--- | :--- |
-| **TC-Intelligence** | React, TypeScript, C# / .NET Core, Cronjobs | **-58% de carga operativa** en KAMs. Algoritmos de recompra automatizada (*Sell In / Sell Out*) con alertas preventivas a 48h de rotura de stock. |
-| **SaaS Clínico (Psicología)** | Express 5, React 19, Prisma 7, MariaDB, Tailwind | **Clean Architecture estricta en 6 capas**. Doble JWT (Access 15m / Refresh 7d) en cookies `HttpOnly`, sanitización multicapa y Audit Trail sin exponer PII. |
-| **MySmartDevice IoT** | ASP.NET Core 9, SignalR, MQTTnet, HiveMQ, Azure | **Domótica en tiempo real**. WebSockets bidireccionales, telemetría continua de hardware, arquitectura N-Tier y despliegue continuo con GitHub Actions en Azure. |
-| **InformateCol** | React, Modern JS, Algoritmos OSINT, Datos Abiertos | **Plataforma contra desinformación**. Algoritmo de puntuación *Trust Score* con cruce de fuentes públicas (OEA, SECOP, DANE) y reportes de auditoría ciudadana. |
+| **TC-Intelligence** | React, TypeScript, C# / .NET Core, Cronjobs | **-58% de carga operativa** en KAMs. Algoritmos de recompra automatizada (*Sell In / Sell Out*) con alertas preventivas a 48h y modelos de optimización de inventario. |
+| **SaaS Clínico (Psicología)** | Express 5, React 19, Prisma 7, MariaDB, Tailwind | **Clean Architecture estricta en 6 capas**. Doble JWT (Access 15m / Refresh 7d) en cookies `HttpOnly`, sanitización total de entradas, y mejor experiencia analítica para profesionales de salud mental. |
+| **MySmartDevice IoT** | ASP.NET Core 9, SignalR, MQTTnet, HiveMQ, Azure | **Domótica en tiempo real**. WebSockets bidireccionales, telemetría continua de hardware, arquitectura N-Tier y despliegue en nube orientado a dispositivos inteligentes. |
+| **InformateCol** | React, Modern JS, Algoritmos OSINT, Datos Abiertos | **Plataforma contra desinformación**. Algoritmo de puntuación *Trust Score* con cruce de fuentes públicas (OEA, SECOP, medios, etc.) para apoyar análisis de veracidad. |
 
 ---
 
@@ -104,6 +111,7 @@ Si buscas un profesional capaz de construir desde el diseño de la base de datos
 - **Email**: [Yaramiller35@gmail.com](mailto:Yaramiller35@gmail.com)
 - **GitHub**: [@DaviDex-sp](https://github.com/DaviDex-sp)
 - **Credly**: [Credenciales](https://credly.com/users/miller-david.0316b652)
+- **Hack The Box**: [Perfil](https://profile.hackthebox.com/profile/019d7dfd-d2a3-7132-828a-7609603ff760?utm_medium=copy_url)
 
 ---
 
@@ -114,3 +122,7 @@ Si buscas un profesional capaz de construir desde el diseño de la base de datos
 **Construyendo soluciones que generan impacto real** ✨
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaviDex-sp&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
