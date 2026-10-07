@@ -69,19 +69,6 @@ Cloud:      Azure App Service • Docker • GitHub Actions
 
 ---
 
-## 🎨 Herramientas & Utilidades
-
-<div align="center">
-
-### 📸 Generador de Foto de Perfil Holográfica
-*Convierte tu foto en un efecto holográfico 3D*
-
-Próximamente disponible en mi repositorio de tools
-
-</div>
-
----
-
 <div align="center">
 
 ### "La seguridad y la calidad no son un lujo, son un estándar." ✨
