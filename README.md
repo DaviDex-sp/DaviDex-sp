@@ -21,7 +21,7 @@
 
 ## 🎯 Sobre mí
 
-Full Stack Developer especializado en **arquitectura robusta**, **seguridad empresarial** y **soluciones en tiempo real**. Construyo plataformas escalables con enfoque en Clean Architecture, OWASP compliance y optimización de operaciones.
+Hola soy un Full Stack Developer especializado en **arquitectura robusta**, **seguridad empresarial** y **soluciones en tiempo real**. Construyo plataformas escalables con enfoque en Clean Architecture, OWASP compliance y optimización de operaciones.
 
 ---
 
